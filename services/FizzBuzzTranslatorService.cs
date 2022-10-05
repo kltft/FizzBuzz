@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FizzBuzz
+namespace FizzBuzz.services
 {
-    public class NumberTranslatorService
+    public class FizzBuzzTranslatorService
     {
         public string TranslateFizzBuzz(int number)
         {
